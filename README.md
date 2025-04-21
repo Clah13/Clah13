@@ -50,7 +50,7 @@ Aqui estão mais alguns exemplos de ferramentas que utilizo durante o curso e ta
 | Ferramenta | Descrição |
 |------------|--------|
 | <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" height="28" width=100> | Organização de arquivos, códigos e notas |
-| <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="28" width=100> | Ferramenta de codificação Python, Java, HTML, CSS |
+| <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="28" width=100> | Ferramenta de codificação multilinguagem |
 | <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" height="28" width=100> | Ferramenta de codidficação Python |
 | <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" height="28" width=100> | Ferramenta de codificação Java|
 | <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" height="28" width=100> | Ferramenta de codificação Java |
