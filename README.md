@@ -43,6 +43,22 @@ Com base no que conheci e experimentei em empregos anteriores e no meu emprego a
 
   Além de fazer o bordado no papel, eu também amo jogos de um modo geral (tanto online, como de tabuleiro, quebra-cabeças estilo sudoku e palavras cruzadas, dentre outros), sou completista quando gosto de um determinado jogo e espero algum dia ter a              oportunidade de criar um protótipo com os conhecimentos de linguagem de programação adquiridos na faculdade.
 
+## Outras ferramentas
+
+Aqui estão mais alguns exemplos de ferramentas que utilizo durante o curso e também para outros projetos.
+
+| Ferramenta | Descrição |
+|------------|--------|
+| <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white" height="28" width=100> | Organização de arquivos, códigos e notas |
+| <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="28" width=100> | Ferramenta de codificação Python, Java, HTML, CSS |
+| <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" height="28" width=100> | Ferramenta de codidficação Python |
+| <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" height="28" width=100> | Ferramenta de codificação Java|
+| <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" height="28" width=100> | Ferramenta de codificação Java |
+| <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="28" width=100> | Gerenciador de tarefas e projetos ágeis |
+| <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="28" width=100> | Cadernos interativos para dados, ciência e Python |
+| <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" height="28" width=100> | Jupyter online do Google|
+
+
 ## ⬩ Linguagens de Programação 🔲
 
 As principais linguagens que tive a oportunidade de aprender a desenvolver até agora são:
