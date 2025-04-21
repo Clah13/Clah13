@@ -43,7 +43,7 @@ Com base no que conheci e experimentei em empregos anteriores e no meu emprego a
 
   Além de fazer o bordado no papel, eu também amo jogos de um modo geral (tanto online, como de tabuleiro, quebra-cabeças estilo sudoku e palavras cruzadas, dentre outros), sou completista quando gosto de um determinado jogo e espero algum dia ter a              oportunidade de criar um protótipo com os conhecimentos de linguagem de programação adquiridos na faculdade.
 
-## Outras ferramentas
+## ⬩ Outras ferramentas
 
 Aqui estão mais alguns exemplos de ferramentas que utilizo durante o curso e também para outros projetos.
 
